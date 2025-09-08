@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+tensorflow
+torch
+torch-geometric
+networkx
+flask
+streamlit
+folium
+streamlit-folium
+kafka-python
+pyspark
